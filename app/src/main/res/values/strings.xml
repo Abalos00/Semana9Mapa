@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Semana 9 Mapa</string>
+    <string name="hint_latitud" />
+    <string name="hint_longitud" />
+</resources>
